@@ -1,0 +1,11 @@
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\bin\Release\Sokobanana.exe.config
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\bin\Release\Sokobanana.exe
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\bin\Release\Sokobanana.pdb
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.csprojAssemblyReference.cache
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.Form1.resources
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.Map.resources
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.Properties.Resources.resources
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.csproj.GenerateResource.cache
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.csproj.CoreCompileInputs.cache
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.exe
+D:\Angela folder\Skolo\Cetvrti semestar\VIZUELNO PROGRAMIRANJE\Proektna zadadca\Sokobanana\Sokobanana\obj\Release\Sokobanana.pdb
